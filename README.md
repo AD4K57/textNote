@@ -13,4 +13,5 @@
 <li>You can send request with Postman or other platforms to 5757 port</li>
 <li>You can change textNote container port,
 but if you change mysql port textNote doesn't run. If you want to change myqsl port, you must change in from project</li>
+<li><p>If use test profile you not obliged run MYSQL container, can use h2 db when project run (soon)</p></li>
 </ul>
